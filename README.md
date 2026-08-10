@@ -1,0 +1,1 @@
+# guia-estudos-investimentos-gemini-notebook
