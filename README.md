@@ -1,29 +1,31 @@
 # guia-estudos-PMM-gemini-notebook
 Meu objetivo com este projeto é conectar com um desafio atual na minha carreira. Estou estudando sobre produto e uma possível migração para produtos e no meio-tempo, surgiu a necessidade de estudar mais sobre o marketing de produto (marketing é meu atual cargo) e então decidi unir essas duas necessidades, uma de entregar o projeto e outra de entender melhor o assunto, para aprender de formas variadas através do gemini notebook, antigo notebook LM, e também aplicar o conhecimento na minha empresa. 
 
-Curadoria de Fontes: Eu procurei por dicas de livros sobre o assunto, então encontrei nomes como "The user experience designer, Inspired e Product Marketing Misunderstood". Além disso, usei core curriculum da PM3 e Pós Graduação de Produto Digital da FIAP, instituições muito conhecida no meio de produtos e tecnologia.
+Curadoria de Fontes: Eu procurei por dicas de livros sobre PMM, então encontrei nomes como "The user experience designer, Inspired e Product Marketing Misunderstood". Além disso, usei core curriculum da PM3 e Pós Graduação de Produto Digital da FIAP, instituições muito conhecidas no meio de produtos e tecnologia. Além disso, pesquisei por cargos no linkedIn e procurei por: quais cursos eles fizeram, sua atuação (de carreira) e também funções no cargo atual, para entender a trajetória e aspectos que se assemelham. 
 
 
 **Miniguia de Estudo:**
 Eu aprendi de forma mais aprofundada sobre os conceitos de PMM, diferença entre um PM e um PMM e também, como o foco em produto diferencia um profissional de marketing de produto de um marketing que foca em outras áreas, como branding. Aprendi sobre a diferença entre um PM que está com os esforços voltados para um "Usuário" e um PMM que está voltado para narrativas de "Buyer persona". 
 
 
-1. **Prompts utilizados:** "Discuss what these sources say about Competências Técnicas, in the larger context of Marketing de Produto (PMM).", "Discuss what these sources say about Início da Estratégia, in the larger context of Marketing de Produto (PMM)", "Quanto tempo um profissional de marketing leva até uma cadeira de PMM, considerando a bagagem e nível de estratégia requeridos?" "Quais são os principais desafios na transição de PM para PMM?"
-2. **Resultados obtidos:** Se eu fosse iniciar um roadmap de estudos, do básico ao avançado, para entender os principais conceitos de PM e PMM, pensando numa visão holística, para entregar melhores resultados e conseguir conversar/influenciar tanto com a área de produto, vendas, customer success e marketing. Como seria esse roadmap?
+1. **Prompts utilizados:** "Pensando em indústria e segmentação, como um PMM B2C se diferencia de um PMM B2B e quais os aspectos das principais indústrias, exemplo: como atua um PMM no setor financeiro para wealth e um na área de health?", "Quanto tempo um profissional de marketing leva até uma cadeira de PMM, considerando a bagagem e nível de estratégia requeridos?" "Quais são os principais desafios na transição de PM para PMM?" e "Se eu fosse iniciar um roadmap de estudos, do básico ao avançado, para entender os principais conceitos de PM e PMM, pensando numa visão holística, para entregar melhores resultados e conseguir conversar/influenciar tanto com a área de produto, vendas, customer success e marketing. Como seria esse roadmap?"
+   
+3. **Resultados obtidos:** Se eu fosse iniciar um roadmap de estudos, do básico ao avançado, para entender os principais conceitos de PM e PMM, pensando numa visão holística, para entregar melhores resultados e conseguir conversar/influenciar tanto com a área de produto, vendas, customer success e marketing. Como seria esse roadmap?
 
 Para construir uma visão holística e se tornar um profissional capaz de transitar e influenciar as áreas de Produto, Vendas, Customer Success (CS) e Marketing, seu roadmap de estudos deve integrar as competências de Product Manager (PM) e Product Marketing Manager (PMM).
 Abaixo, apresento um roadmap estruturado do básico ao avançado, baseado nas fontes:
-Nível 1: Fundamentos e Mentalidade (O "Mindset")
+
+1. Nível 1: Fundamentos e Mentalidade (O "Mindset")
 O objetivo aqui é entender as fronteiras e as sinergias entre as funções.
 A Tríade de Produto: Estude o modelo que divide as responsabilidades entre o Gerente Estratégico (PLM), o Gerente Técnico (PM) e o de Marketing de Produto (PMM)
-.
+
 O Ciclo de Vida do Produto (PLC): Entenda as fases de introdução, crescimento, maturidade e declínio, e como a estratégia muda em cada uma
-.
+
 PM vs. PMM: Aprenda que o PM decide "o que construir e por quê" (foco interno/engenharia), enquanto o PMM decide "para quem é e como vence no mercado" (foco externo/vendas)
-.
+
 Mindset de Influência: Como o PMM não é o dono do roadmap, estude como usar dados de mercado para persuadir e influenciar sem autoridade direta
-.
-Nível 2: Descoberta e Inteligência de Mercado
+
+2. Nível 2: Descoberta e Inteligência de Mercado
 Nesta fase, você aprende a coletar o "ouro em pó": insights do cliente e do mercado.
 Pesquisa de Comprador vs. Usuário: O PM foca no usuário (usabilidade); você deve focar no comprador (ROI e mitigação de risco)
 .
@@ -33,7 +35,7 @@ Jobs-to-be-Done (JTBD): Estude como entender a motivação real por trás da "co
 .
 Análise de Win/Loss: Aprenda a minerar o CRM e entrevistar clientes que fecharam ou desistiram para entender padrões de perda competitiva
 .
-Nível 3: Estratégia de Posicionamento e GTM
+3. Nível 3: Estratégia de Posicionamento e GTM
 Onde você transforma conhecimento em narrativa comercial.
 Obviously Awesome (April Dunford): Domine o framework de posicionamento: alternativas competitivas, atributos únicos e valor de negócio
 .
@@ -43,7 +45,7 @@ Estratégias de Go-to-Market (GTM): Estude os modelos Sales-Led (SLG), Product-L
 .
 Precificação e Empacotamento: Entenda a disposição a pagar do mercado e como estruturar planos que reflitam o valor percebido
 .
-Nível 4: Execução Cross-Funcional e Influência
+4. Nível 4: Execução Cross-Funcional e Influência
 Neste nível, você aprende a falar a língua das outras áreas para entregar resultados.
 Sales Enablement (Vendas): Crie ativos práticos como battlecards de concorrência e decks de vendas baseados em histórias reais (antes vs. depois)
 .
@@ -53,7 +55,7 @@ Rituais de Colaboração (Produto): Implemente o 4-way handshake: reuniões mens
 .
 Métricas de Receita: Pare de olhar para métricas de vaidade. Foque em Win Rates, Velocidade de Pipeline e NRR (Net Revenue Retention)
 .
-Nível 5: Estratégia Avançada e Liderança
+5. Nível 5: Estratégia Avançada e Liderança
 Visão macro para guiar a empresa como um todo.
 Criação de Categoria: Analise como empresas como Salesforce (SaaS) e Gong (Revenue Intelligence) criaram novos mercados para fugir da comparação de preços
 .
