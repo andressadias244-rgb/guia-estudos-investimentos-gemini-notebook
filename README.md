@@ -6,8 +6,10 @@ Curadoria de Fontes: Eu procurei por dicas de livros sobre o assunto, então enc
 
 **Miniguia de Estudo:**
 Eu aprendi de forma mais aprofundada sobre os conceitos de PMM, diferença entre um PM e um PMM e também, como o foco em produto diferencia um profissional de marketing de produto de um marketing que foca em outras áreas, como branding. Aprendi sobre a diferença entre um PM que está com os esforços voltados para um "Usuário" e um PMM que está voltado para narrativas de "Buyer persona". 
-**Prompts utilizados:** "Discuss what these sources say about Competências Técnicas, in the larger context of Marketing de Produto (PMM).", "Discuss what these sources say about Início da Estratégia, in the larger context of Marketing de Produto (PMM)", "Quanto tempo um profissional de marketing leva até uma cadeira de PMM, considerando a bagagem e nível de estratégia requeridos?" "Quais são os principais desafios na transição de PM para PMM?"
-**Resultados obtidos:** Se eu fosse iniciar um roadmap de estudos, do básico ao avançado, para entender os principais conceitos de PM e PMM, pensando numa visão holística, para entregar melhores resultados e conseguir conversar/influenciar tanto com a área de produto, vendas, customer success e marketing. Como seria esse roadmap?
+
+
+1. **Prompts utilizados:** "Discuss what these sources say about Competências Técnicas, in the larger context of Marketing de Produto (PMM).", "Discuss what these sources say about Início da Estratégia, in the larger context of Marketing de Produto (PMM)", "Quanto tempo um profissional de marketing leva até uma cadeira de PMM, considerando a bagagem e nível de estratégia requeridos?" "Quais são os principais desafios na transição de PM para PMM?"
+2. **Resultados obtidos:** Se eu fosse iniciar um roadmap de estudos, do básico ao avançado, para entender os principais conceitos de PM e PMM, pensando numa visão holística, para entregar melhores resultados e conseguir conversar/influenciar tanto com a área de produto, vendas, customer success e marketing. Como seria esse roadmap?
 
 Para construir uma visão holística e se tornar um profissional capaz de transitar e influenciar as áreas de Produto, Vendas, Customer Success (CS) e Marketing, seu roadmap de estudos deve integrar as competências de Product Manager (PM) e Product Marketing Manager (PMM).
 Abaixo, apresento um roadmap estruturado do básico ao avançado, baseado nas fontes:
