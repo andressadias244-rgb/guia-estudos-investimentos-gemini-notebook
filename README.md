@@ -1,7 +1,9 @@
 # guia-estudos-PMM-gemini-notebook
+**Por que Product Marketing Manager? Por que agora?**
+
 Meu objetivo com este projeto é conectar com um desafio atual na minha carreira. Estou estudando sobre produto e uma possível migração para produtos e no meio-tempo, surgiu a necessidade de estudar mais sobre o marketing de produto (marketing é meu atual cargo) e então decidi unir essas duas necessidades, uma de entregar o projeto e outra de entender melhor o assunto, para aprender de formas variadas através do gemini notebook, antigo notebook LM, e também aplicar o conhecimento na minha empresa. 
 
-Curadoria de Fontes: Eu procurei por dicas de livros sobre PMM, então encontrei nomes como "The user experience designer, Inspired e Product Marketing Misunderstood". Além disso, usei core curriculum da PM3 e Pós Graduação de Produto Digital da FIAP, instituições muito conhecidas no meio de produtos e tecnologia. Além disso, pesquisei por cargos no linkedIn e procurei por: quais cursos eles fizeram, sua atuação (de carreira) e também funções no cargo atual, para entender a trajetória e aspectos que se assemelham. 
+**Curadoria de Fontes:** Eu procurei por dicas de livros sobre PMM, então encontrei nomes como "The user experience designer, Inspired e Product Marketing Misunderstood". Além disso, usei core curriculum da PM3 e Pós Graduação de Produto Digital da FIAP, instituições muito conhecidas no meio de produtos e tecnologia. Além disso, pesquisei por cargos no linkedIn e procurei por: quais cursos eles fizeram, sua atuação (de carreira) e também funções no cargo atual, para entender a trajetória e aspectos que se assemelham. 
 
 
 **Miniguia de Estudo:**
